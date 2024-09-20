@@ -24,8 +24,8 @@ Nuestra aplicación ofrece una solución intuitiva y eficiente para la gestión 
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/SantiDev1/AppToDoList.git
-   cd AppToDoList
+   git clone https://github.com/SantiDev1/To-Do-List-.git
+   cd To-Do-List
 
 2. Configura Laragon o xampp para que apunte al directorio donde clonaste el repositorio.
 
