@@ -209,7 +209,7 @@ window.changePage = function(page) {
     }
 
     function handleFilter() {
-        const filterName = $('#filter-name').val().trim().toLowerCase();
+        const filterName = $('#filter-name').val().trim();
         const filterStatus = $('#filter-status').val();
 
         $.ajax({
